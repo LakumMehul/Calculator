@@ -1,0 +1,59 @@
+
+.btn{
+    width: 50px;
+    height: 35px;
+    margin: 3px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+
+}
+
+.btn:active {
+    background-color: aquamarine;
+}
+.btn:hover{
+    background-color:gray;
+}
+
+.btns{
+    width: 100px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 6px;
+    background-color: yellowgreen;
+    color: black;
+}
+.btns:active{
+    background-color: aquamarine;
+}
+.btns:hover{
+    background-color: pink;
+}
+
+.input{
+    width: 210px;
+    height: 35px;
+    background-color: rgb(233, 233, 233);
+    color: black;
+    border-radius: 6px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.container{
+    border: 3px solid black;
+    width: 245px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: rgb(150, 150, 150);
+
+}
+/* 
+@media (max-width:500px) and (max-width:800px)   {
+    #mehul{
+        display:block;
+        background-color: aqua;
+        color: bisque;
+    }
+} */
